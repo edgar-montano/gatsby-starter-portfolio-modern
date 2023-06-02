@@ -52,4 +52,3 @@ Gatsby Starter Portfolio Modern
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
->>>>>>> bc950200b1641788c8a3b0a2c7ef5a26689ecf8f
