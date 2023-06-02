@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -128,3 +129,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+node_modules/
+.cache/
+public
+src/gatsby-types.d.ts
+>>>>>>> bc950200b1641788c8a3b0a2c7ef5a26689ecf8f
