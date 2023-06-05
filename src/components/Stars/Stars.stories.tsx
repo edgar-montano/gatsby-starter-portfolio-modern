@@ -4,7 +4,7 @@ import Stars from './Stars';
 
 // More on how to set up stories at: https://storybook.js.org/docs/react/writing-stories/introduction
 const meta = {
-    title: 'Animation/Stars',
+    title: 'Sky/Stars',
     component: Stars,
     tags: ['autodocs'],
     // argTypes: {

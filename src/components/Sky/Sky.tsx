@@ -10,7 +10,7 @@ export default function Sky({ }: Props) {
             height: "100%"
         }}
         >
-            <Stars />
+            <Stars count={500} />
         </div>
     )
 }
