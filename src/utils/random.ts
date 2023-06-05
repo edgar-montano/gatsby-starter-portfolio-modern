@@ -19,3 +19,10 @@ export function randomElement<T>(arr: T[]): T {
     const randomIndex = Math.floor(Math.random() * arr.length);
     return arr[randomIndex];
 }
+/**
+ * Randoms sign used for calculating positive or negative direction.
+ * @returns sign {number} `-1` or `1`
+ */
+export function randomSign(): number {
+    return Math.random() < 0.5 ? -1 : 1;
+}
