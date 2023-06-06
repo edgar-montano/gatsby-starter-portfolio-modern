@@ -39,10 +39,20 @@ export default function Star({ cx, cy, r, fill }: Props) {
 
     const variants = {
         static: { y: 0, x: 0 },
-        flicker: { opacity: [1, 0.8, 0.5, 0.6, 0.4, 1] },
+        flicker: {
+            opacity: [1, 0.8, 0.5, 0.6, 0.4, 1],
+            transition: {
+                duration: 10,
+                repeat: Infinity
+            }
+        },
     }
 
     return (
-        <motion.circle variants={variants}  {...{ cx, cy, r, fill }} drag />
+        <motion.circle
+            drag
+            variants={variants}
+            initial="static"
+            {...{ cx, cy, r, fill }} />
     );
 }
