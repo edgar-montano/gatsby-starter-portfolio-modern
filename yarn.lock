@@ -2509,10 +2509,10 @@
   resolved "https://registry.yarnpkg.com/@fal-works/esbuild-plugin-global-externals/-/esbuild-plugin-global-externals-2.1.2.tgz#c05ed35ad82df8e6ac616c68b92c2282bd083ba4"
   integrity sha512-cEee/Z+I12mZcFJshKcCqC8tuX5hG3s+d+9nZ3LabqKF1vKdF41B92pJVCBggjAGORAeOzyyDDKrZwIkLffeOQ==
 
-"@fontsource/vt323@^5.0.2":
+"@fontsource/silkscreen@^5.0.2":
   version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@fontsource/vt323/-/vt323-5.0.2.tgz#e679ea5e984d5917efd586553f6f3bde361a4050"
-  integrity sha512-l5FOrrFMfmEd/GM+9RNVJQzWehJaTo1dUkW+jamlXFGXUkqaIaDg14LL+6yJDlUK2ZoZg2OZTZS/ElSuDSpfkw==
+  resolved "https://registry.yarnpkg.com/@fontsource/silkscreen/-/silkscreen-5.0.2.tgz#926670f3894eff5f089620e4618d08457a7f7d1f"
+  integrity sha512-pq/xhzDlwY/ynA/uZ0pCWngZg3GOvQXkp7s2+5eCVFh/pfGJ0GRUgn7FOPdKtzWRtdn9SFeIr3BJ08xdkkvgGA==
 
 "@gatsbyjs/parcel-namer-relative-to-cwd@^2.10.0":
   version "2.10.0"

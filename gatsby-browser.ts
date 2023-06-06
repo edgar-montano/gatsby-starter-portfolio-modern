@@ -1,1 +1,1 @@
-import "@fontsource/vt323/400.css";
+import "@fontsource/silkscreen/400.css";

@@ -7,7 +7,6 @@ const pageStyles = {
   color: "white",
   background: "black",
   padding: 96,
-  // fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 
 const IndexPage: React.FC<PageProps> = () => {

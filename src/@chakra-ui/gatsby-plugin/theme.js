@@ -5,8 +5,8 @@ const theme = {
     primary: "rebeccapurple",
   },
   fonts: {
-    body: `"VT323", monospace`,
-    heading: `"VT323", monospace`,
+    body: `"Silkscreen", monospace`,
+    heading: `"Silkscreen", monospace`,
     // mono: "",
   },
   fontSizes: {
