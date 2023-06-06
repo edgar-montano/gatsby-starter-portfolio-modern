@@ -8,7 +8,7 @@ type Props = {
      */
     count?: number;
 }
-export default function Stars({ count = 500 }: Props) {
+export default function Stars({ count = 100 }: Props) {
     const stars = Array.from(Array(count)).map((_, index) => <Star key={index} />)
 
     return (

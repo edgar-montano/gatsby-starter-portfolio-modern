@@ -8,6 +8,7 @@
     "gatsby"
   ],
   "scripts": {
+    "dev": "force -rm .cache && gatsby develop",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
@@ -22,6 +23,7 @@
     "@chakra-ui/react": "^2.7.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
+    "@fontsource/vt323": "^5.0.2",
     "@mdx-js/react": "^2.3.0",
     "framer-motion": "^10.12.16",
     "gatsby": "^5.10.0",

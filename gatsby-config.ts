@@ -11,7 +11,8 @@ const config: GatsbyConfig = {
     graphqlTypegen: true,
     plugins: [
         "gatsby-plugin-emotion",
-        "gatsby-plugin-google-gtag",
+        //@TODO: Add "trackingIds" field required
+        // "gatsby-plugin-google-gtag",
         "gatsby-plugin-image",
         "gatsby-plugin-sitemap",
         {
