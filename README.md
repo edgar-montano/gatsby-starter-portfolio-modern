@@ -1,7 +1,7 @@
 
 # gatsby-starter-portfolio-modern
 
-Gatsby Starter Portfolio Modern
+A Modern Gatsby Starter Portfolio.
 
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
@@ -12,15 +12,20 @@ Gatsby Starter Portfolio Modern
   Gatsby Minimal TypeScript Starter
 </h1>
 
+## ❔What's included?
+
+- ⚡ Optimized for performance
+- 🎨 Modern UI library, made for accessibility support *(Chakra-UI)*
+- 🎞️ Amazingly fast animations with Framer Motion.
+- ⚙️ Customizable and extendible.
+- 📃 MDX support for writing blog posts in markdown! *(No additional CMS needed)*
+
 ## 🚀 Quick start
 
-1. **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+1. **Clone repository**
 
     ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby -- -ts
+    git clone https://github.com/edgar-montano/gatsby-starter-portfolio-modern.git
     ```
 
 2. **Start developing.**
@@ -28,15 +33,16 @@ Gatsby Starter Portfolio Modern
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    cd gatsby-starter-portfolio-modern/
+    yarn install
+    yarn develop
     ```
 
 3. **Open the code and start customizing!**
 
     Your site is now running at <http://localhost:8000>!
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
+    Edit `gatsby-config.ts` to see your site update in real-time!
 
 4. **Learn more**
 
